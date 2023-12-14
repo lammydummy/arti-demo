@@ -1,6 +1,6 @@
 import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
-//lol
+//lololol
 
 function App() {
   return (
